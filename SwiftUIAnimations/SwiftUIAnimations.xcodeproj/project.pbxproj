@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D94C5A932B1EDB520056A88C /* ReactionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94C5A922B1EDB520056A88C /* ReactionButton.swift */; };
 		D97DAFE3299BAD4200A91CC7 /* SwiftUIAnimationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97DAFE2299BAD4200A91CC7 /* SwiftUIAnimationsApp.swift */; };
 		D97DAFE5299BAD4200A91CC7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97DAFE4299BAD4200A91CC7 /* ContentView.swift */; };
 		D97DAFE7299BAD4800A91CC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D97DAFE6299BAD4800A91CC7 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D94C5A922B1EDB520056A88C /* ReactionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReactionButton.swift; sourceTree = "<group>"; };
 		D97DAFDF299BAD4200A91CC7 /* SwiftUIAnimations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAnimations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D97DAFE2299BAD4200A91CC7 /* SwiftUIAnimationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAnimationsApp.swift; sourceTree = "<group>"; };
 		D97DAFE4299BAD4200A91CC7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				D97DAFE2299BAD4200A91CC7 /* SwiftUIAnimationsApp.swift */,
 				D97DAFE4299BAD4200A91CC7 /* ContentView.swift */,
 				D97DAFF1299BAD9900A91CC7 /* GradientBackgroundAnimation.swift */,
+				D94C5A922B1EDB520056A88C /* ReactionButton.swift */,
 				D97DAFE6299BAD4800A91CC7 /* Assets.xcassets */,
 				D97DAFE8299BAD4800A91CC7 /* SwiftUIAnimations.entitlements */,
 				D97DAFE9299BAD4800A91CC7 /* Preview Content */,
@@ -142,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D94C5A932B1EDB520056A88C /* ReactionButton.swift in Sources */,
 				D97DAFE5299BAD4200A91CC7 /* ContentView.swift in Sources */,
 				D97DAFF2299BAD9900A91CC7 /* GradientBackgroundAnimation.swift in Sources */,
 				D97DAFE3299BAD4200A91CC7 /* SwiftUIAnimationsApp.swift in Sources */,
